@@ -58,7 +58,7 @@ module.exports = {
   ],
   links: [
     {
-      name: 'blog',
+      name: 'Blog',
       link: 'https://neiula.top',
     },
   ],
